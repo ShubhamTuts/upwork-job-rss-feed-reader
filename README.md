@@ -7,4 +7,4 @@ It is a basic auto Upwork job reader that displays the most recent Upwork jobs. 
 <ul>2. Create a upwork folder and Upload the index.php on your htdocs folder </ul>
 <ul>3. Start apache and run localhost/upwork on your browser</ul>
 
-<h1>Thats Is 🥳🥳🎉🎉</h1>
+<h1>That's It 🥳🥳🎉🎉</h1>
