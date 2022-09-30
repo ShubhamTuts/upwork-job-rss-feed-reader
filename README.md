@@ -3,5 +3,8 @@ It is a basic auto Upwork job reader that displays the most recent Upwork jobs. 
 
 
 <h1><b>How To Install: </b></h1>
-<ul>Install Xampp in you pc (If you're using live server then upload this index.php in your server)
-</ul>
+<ul>1. Install Xampp in you pc (If you're using live server then upload this index.php in your server)</ul>
+<ul>2. Create a upwork folder and Upload the index.php on your htdocs folder </ul>
+<ul>3. Start apache and run localhost/upwork on your browser</ul>
+
+<h1>Thats Is 🥳🥳🎉🎉</h1>
